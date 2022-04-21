@@ -23,8 +23,8 @@ figlet YNTKTS | lolcat
 
 echo -e  "_____________________________________________________________"
 echo -e  "Tools    : YNTKTS  $white         " |lolcat
-echo -e  "Creadby  : Ninym :3 (Ren7)   " |lolcat
-echo -e  "Contact  : https://github.com/CalonSukses1 $white " |lolcat
+echo -e  "Create   : Ren Sydicate   " |lolcat
+echo -e  "Contact  : https://github.com/RenSyicate $white " |lolcat
 echo -e  "_____________________________________________________________"
 
 ###################################################
